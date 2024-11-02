@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352314940392",
+    "project_id": "digitalseva-f7365",
+    "storage_bucket": "digitalseva-f7365.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352314940392:android:69aa0b8f385cfe86da625d",
+        "android_client_info": {
+          "package_name": "com.example.digitalseva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPdvHEVIR7lc8TYpqK8srwzNF0CkLMAcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
